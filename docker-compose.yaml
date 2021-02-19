@@ -9,7 +9,7 @@ services:
       - ./notebooks:/notebooks
       - ./data:/Data
       - ./models:/models
-      - ./scripts/jupyter-startup.sh:/jupyter-startup.sh
+      - ./bash_scripts/jupyter-startup.sh:/jupyter-startup.sh
     network_mode: host
     command: bash -c "source jupyter-startup.sh"
     restart: always
