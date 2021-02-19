@@ -1,0 +1,2 @@
+truck_id,date,tp,fp,fn,n_mismatched,total_rfid_amt,DBSCAN_eps,DBSCAN_min_samples,rfid_max_dist,overall_accuracy,RFID_coverage_rate
+XE-5620S,2020-10-22,12,14,0,2,124,130,15,17,0.46153846153846156,1.0

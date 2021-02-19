@@ -1,0 +1,2 @@
+truck_id,date,tp,fp,fn,n_mismatched,total_rfid_amt,DBSCAN_eps,DBSCAN_min_samples,rfid_max_dist,overall_accuracy,RFID_coverage_rate
+XE-5598Z,2020-10-22,20,11,0,0,128,130,15,17,0.6451612903225806,1.0
